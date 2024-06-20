@@ -10,6 +10,8 @@ This project aims to explore and simulate various physical phenomena using numer
 - **Non-linear Pendulum** and its behavior under various conditions.
 - **Diffusion Equations** with logistic terms and convective effects.
 - **Time-Dependent Schrödinger Equation** for quantum mechanics simulations.
+- **Wilberforce Pendulum**
+- **Burgers Equation**
 
 ## Scripts
 
