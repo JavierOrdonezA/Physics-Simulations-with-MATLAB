@@ -59,4 +59,4 @@ The `results` directory contains images of the simulation outputs
 To run the simulations, simply download the repository and open the `.m` files in MATLAB. Each script has comments to guide you through the execution process.
 
 
-## These learnings not only enhanced understanding of numerical methods but also demonstrated their practical application in solving complex physical problems.
+## These learnings not only enhanced my understanding of numerical methods/ programming but also demonstrated their practical application in solving complex physical problems.
