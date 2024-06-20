@@ -54,3 +54,5 @@ This project aims to explore and simulate various physical phenomena using numer
 ## Results
 
 The `results` directory contains images of the simulation outputs
+
+To run the simulations, simply download the repository and open the `.m` files in MATLAB. Each script has comments to guide you through the execution process.
