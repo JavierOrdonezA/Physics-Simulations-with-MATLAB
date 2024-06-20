@@ -19,9 +19,6 @@ This project aims to explore and simulate various physical phenomena using numer
 - **projectile_quadratic_resistance_EulerF.m**: Projectile motion with quadratic resistance using the Forward Euler method.
 - **projectile_quadratic_resistance_EulerM.m**: Projectile motion with quadratic resistance using the Modified Euler method.
 - **projectile_quadratic_resistance_Verlet.m**: Projectile motion with quadratic resistance using the Verlet method.
-- **Wilberforce Pendulum**
-- **Burgers Partial differential equation**
-
 
 ### 2. Double Pendulum
 
