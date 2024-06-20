@@ -2,22 +2,55 @@
 
 This project showcases various numerical methods implemented in MATLAB to simulate complex physical systems, including double pendulums, mass-spring systems, and partial differential equations. The aim is to provide a comprehensive collection of scripts and visualizations that demonstrate the application of different numerical techniques to solve and analyze these systems.
 
-### Double Pendulum
-Simulation files and images for the double pendulum using different numerical methods.
-- **Files:** `double_pendulum_Euler.m`, `double_pendulum_ode45.m`, `double_pendulum_rk4.m`, `double_pendulum_verlet.m`, etc.
-- **Images:** Results and graphs stored in the `images/` directory.
+This project aims to explore and simulate various physical phenomena using numerical methods. The simulations include:
 
-### Mass Spring System and Projectile Quadratic Resistance
-Code for simulating mass-spring systems and projectiles with quadratic resistance.
-- **Files:** `Function_Forward_Euler_Method.m`, `Mass_spring_system_forward_euler_method.m`, `projectile_quadratic_resistance_EulerF.m`, etc.
-- **Images:** Simulation results in the `images/` directory.
+- **Projectile Motion** with different resistance models.
+- **Double Pendulum Dynamics** using Euler, Runge-Kutta, and Verlet integration methods.
+- **Mass-Spring System** simulations with different numerical integration techniques.
+- **Non-linear Pendulum** and its behavior under various conditions.
+- **Diffusion Equations** with logistic terms and convective effects.
+- **Time-Dependent Schrödinger Equation** for quantum mechanics simulations.
 
-### Partial Differential Equation Discretizations, Burgers, and CDR Equations
-MATLAB scripts for solving PDEs including Burgers' equation and convection-diffusion-reaction equations.
-- **Files:** `Discretization_Burgers_equation.m`, `time_dependent_Schrodinger.m`, etc.
-- **Images:** Visualization results in the `images/` directory.
+## Scripts
 
-### Wilberforce Pendulum
-Simulations for the Wilberforce pendulum using different methods.
-- **Files:** `FunctionOdePenduloLineal.m`, `wilberforce_pendulum_ODE45.m`, etc.
-- **Images:** Results in the `images/` directory.
+### 1. Projectile Motion
+
+- **3D Parabolic Shot.m**: Simulates projectile motion in 3D with parabolic trajectory.
+- **projectile_quadratic_resistance_EulerF.m**: Projectile motion with quadratic resistance using the Forward Euler method.
+- **projectile_quadratic_resistance_EulerM.m**: Projectile motion with quadratic resistance using the Modified Euler method.
+- **projectile_quadratic_resistance_Verlet.m**: Projectile motion with quadratic resistance using the Verlet method.
+
+### 2. Double Pendulum
+
+- **double_pendulum_Euler.m**: Double pendulum simulation using Euler's method.
+- **double_pendulum_ode45.m**: Double pendulum simulation using MATLAB's ode45 solver.
+- **double_pendulum_rk4.m**: Double pendulum simulation using the Runge-Kutta 4th order method.
+- **double_pendulum_verlet.m**: Double pendulum simulation using the Verlet integration method.
+
+### 3. Mass-Spring System
+
+- **Mass-spring system _forward_euler_method.m**: Simulates the mass-spring system using the Forward Euler method.
+- **Mass-spring system _modified_euler_method.m**: Simulates the mass-spring system using the Modified Euler method.
+- **Mass-spring system_Verlet.m**: Simulates the mass-spring system using the Verlet method.
+
+### 4. Non-Linear Pendulum
+
+- **Non-Linear-Pendulum.m**: Simulates the dynamics of a non-linear pendulum.
+
+### 5. Diffusion Equations
+
+- **One-dimensional-diffusion-equation-logistic-term.m**: Simulates the one-dimensional diffusion equation with logistic term.
+- **One-dimensional-diffusion-equation.m**: Simulates the one-dimensional diffusion equation.
+
+### 6. Time-Dependent Schrödinger Equation
+
+- **time-dependent Schrödinger.m**: Simulates the time-dependent Schrödinger equation.
+
+### 7. Wilberforce Pendulum
+
+- **wilberforce_pendulum_ODE45.m**: Simulates the Wilberforce pendulum using ode45.
+- **wilberforce_pendulum_RK4.m**: Simulates the Wilberforce pendulum using Runge-Kutta 4th order method.
+
+## Results
+
+The `results` directory contains images of the simulation outputs
