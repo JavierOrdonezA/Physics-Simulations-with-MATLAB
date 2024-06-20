@@ -1,7 +1,6 @@
 # Physics-Simulations-with-MATLAB
 
-
-## This repository contains MATLAB code for simulating various physical systems including double pendulum, mass-spring systems, and PDE discretizations. Below are the details of each section.
+This project showcases various numerical methods implemented in MATLAB to simulate complex physical systems, including double pendulums, mass-spring systems, and partial differential equations. The aim is to provide a comprehensive collection of scripts and visualizations that demonstrate the application of different numerical techniques to solve and analyze these systems.
 
 ### Double Pendulum
 Simulation files and images for the double pendulum using different numerical methods.
