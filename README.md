@@ -62,7 +62,20 @@ To run the simulations, simply download the repository and open the `.m` files i
 
 
 
-## These learnings not only enhanced my understanding of numerical methods/ programming but also demonstrated their practical application in solving complex physical problems.
+### These learnings not only enhanced my understanding of numerical methods/ programming but also demonstrated their practical application in solving complex physical problems.
 
+
+Feel free to explore the projects and their solutions in the respective directories.
+👾 Happy coding! 🥷
 ---
+
+
+
 **F. J. Ordonez Araujo (fordonezaraujo@gmail.com)**
+
+
+Thanks For Watching This Repository!
+
+**KEEP AWESOME & STAY COOL!** 😎
+
+Feel Free To Fork And Report If You Find Any Issue :)
