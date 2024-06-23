@@ -142,6 +142,8 @@ $$
 - **double_pendulum_rk4.m**: Double pendulum simulation using the Runge-Kutta 4th order method.
 - **double_pendulum_verlet.m**: Double pendulum simulation using the Verlet integration method.
 
+The equations solved are:
+
 $$
 \begin{align}
 & \text{Lagrangiano of the system}\\
