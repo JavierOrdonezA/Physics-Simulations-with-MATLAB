@@ -33,7 +33,7 @@ $$
    $$
 
 ### 2. Double Pendulum
-!(https://github.com/JavierOrdonezA/Physics-Simulations-with-MATLAB/blob/main/Numerical%20Results/image_double%20pendulum.png)
+![](https://github.com/JavierOrdonezA/Physics-Simulations-with-MATLAB/blob/main/Numerical%20Results/image_double%20pendulum.png)
 
 - **double_pendulum_Euler.m**: Double pendulum simulation using Euler's method.
 - **double_pendulum_ode45.m**: Double pendulum simulation using MATLAB's ode45 solver.
