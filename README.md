@@ -230,6 +230,8 @@ Equation taken from Scientific Reports | (2020) 10:8040 | https://doi.org/10.103
 
 The equations solved are:
 
+Burgers Equation
+
 $$
 \frac{\partial C}{\partial t} = D \frac{\partial^2 C}{\partial x^2} - V \frac{\partial C}{\partial x} - K C
 $$
