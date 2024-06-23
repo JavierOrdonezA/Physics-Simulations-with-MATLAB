@@ -12,10 +12,8 @@ This project aims to explore and simulate various physical phenomena using numer
 - **Time-Dependent Schrödinger Equation** for quantum mechanics simulations.
 - **Wilberforce Pendulum**
 - **Burgers Equation**
-
-\[ 
-i \hbar \frac{\partial \psi}{\partial t} = \left( -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + k x^4 \right) \psi 
-\]
+ 
+$i \hbar \frac{\partial \psi}{\partial t} = \left( -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + k x^4 \right) \psi $
 
 ## Scripts
 
