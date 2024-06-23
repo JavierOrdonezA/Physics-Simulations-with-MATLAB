@@ -75,6 +75,69 @@ Feel free to explore the projects and their solutions in the respective director
 **F. J. Ordonez Araujo (fordonezaraujo@gmail.com)**
 
 
+
+
+
+
+
+---
+## Scripts
+
+### 1. Projectile Motion
+
+- **3D Parabolic Shot.m**: Simulates projectile motion in 3D with parabolic trajectory.
+- **projectile_quadratic_resistance_EulerF.m**: Projectile motion with quadratic resistance using the Forward Euler method.
+- **projectile_quadratic_resistance_EulerM.m**: Projectile motion with quadratic resistance using the Modified Euler method.
+- **projectile_quadratic_resistance_Verlet.m**: Projectile motion with quadratic resistance using the Verlet method.
+
+### 2. Double Pendulum
+
+- **double_pendulum_Euler.m**: Double pendulum simulation using Euler's method.
+- **double_pendulum_ode45.m**: Double pendulum simulation using MATLAB's ode45 solver.
+- **double_pendulum_rk4.m**: Double pendulum simulation using the Runge-Kutta 4th order method.
+- **double_pendulum_verlet.m**: Double pendulum simulation using the Verlet integration method.
+
+### 3. Mass-Spring System
+
+- **Mass-spring system _forward_euler_method.m**: Simulates the mass-spring system using the Forward Euler method.
+- **Mass-spring system _modified_euler_method.m**: Simulates the mass-spring system using the Modified Euler method.
+- **Mass-spring system_Verlet.m**: Simulates the mass-spring system using the Verlet method.
+
+### 4. Non-Linear Pendulum
+
+- **Non-Linear-Pendulum.m**: Simulates the dynamics of a non-linear pendulum.
+
+### 5. Diffusion and Burgers_equation Equations
+
+- **One-dimensional-diffusion-equation-logistic-term.m**: Simulates the one-dimensional diffusion equation with logistic term.
+
+  The equation solved is:
+  
+  $$
+  \frac{\partial C}{\partial t} = D \frac{\partial^2 C}{\partial x^2} + r C (1 - C)
+  $$
+
+- **One-dimensional-diffusion-equation.m**: Simulates the one-dimensional diffusion equation.
+- **Discretization_Burgers_equation.m**
+
+### 6. Time-Dependent Schrödinger Equation
+
+- **time-dependent Schrödinger.m**: Simulates the time-dependent Schrödinger equation.
+
+  The equation solved is:
+  
+  $$
+  i \hbar \frac{\partial \psi}{\partial t} = \left( -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + k x^4 \right) \psi
+  $$
+
+### 7. Wilberforce Pendulum
+
+- **wilberforce_pendulum_ODE45.m**: Simulates the Wilberforce pendulum using ode45.
+- **wilberforce_pendulum_RK4.m**: Simulates the Wilberforce pendulum using Runge-Kutta 4th order method.
+
+## Results
+
+
 Thanks For Watching This Repository!
 
 **KEEP AWESOME & STAY COOL!** 😎
