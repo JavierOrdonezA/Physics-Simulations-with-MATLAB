@@ -89,10 +89,10 @@ Feel free to explore the projects and their solutions in the respective director
   $$
 
   $$  
-  \begin{cases}
+  \begin{align}
     m \frac{d^2 x}{dt^2} = -b v_x \sqrt{v_x^2 + v_y^2} \\
     m \frac{d^2 y}{dt^2} = -mg - b v_y \sqrt{v_x^2 + v_y^2}
-  \end{cases}
+  \end{align}
  $$
 
 
@@ -125,12 +125,11 @@ This project aims to explore and simulate various physical phenomena using numer
   
 
   $$  
-  \begin{cases}
+  \begin{align}
     m \frac{d^2 x}{dt^2} = -b v_x \sqrt{v_x^2 + v_y^2} \\
     m \frac{d^2 y}{dt^2} = -mg - b v_y \sqrt{v_x^2 + v_y^2}
-  \end{cases}
- $$
-
+  \end{align}
+  $$
 
 ### 2. Double Pendulum
 
