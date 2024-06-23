@@ -114,7 +114,7 @@ This project aims to explore and simulate various physical phenomena using numer
 - **Diffusion Equations** with logistic terms and convective effects.
 - **Time-Dependent Schrödinger Equation** for quantum mechanics simulations.
 - **Wilberforce Pendulum**
-- **Burgers Equation and System of Coupled diffusion-reaction equations**
+- **Burgers Equation and System of Coupled diffusion-reaction equations** Finite difference method
 
 ## Scripts
 
@@ -228,13 +228,12 @@ $$
 
 ### 7. Burgers Equation and   System of Coupled diffusion-reaction equations
 
--  To Solve these 
+-  To Solve these we used  finite difference method
 
-Equation taken from Scientific Reports | (2020) 10:8040 | https://doi.org/10.1038/s41598-020-63982-w
 
 The equations solved are:
 
-Burgers Equation
+Burgers Equation (Equation taken from Scientific Reports | (2020) 10:8040 | https://doi.org/10.1038/s41598-020-63982-w)
 
 $$
 \frac{\partial C}{\partial t} = D \frac{\partial^2 C}{\partial x^2} - V \frac{\partial C}{\partial x} - K C
