@@ -103,14 +103,11 @@ Feel free to explore the projects and their solutions in the respective director
 - **Mass-spring system _modified_euler_method.m**: Simulates the mass-spring system using the Modified Euler method.
 - **Mass-spring system_Verlet.m**: Simulates the mass-spring system using the Verlet method.
 
-The equations solved is:
-$$
-L = \frac{1}{2} m (\dot{x}_1^2 + \dot{x}_2^2 + \dot{x}_3^2) - \frac{1}{2} k x_1^2 - \frac{1}{2} k (x_2 - x_1)^2 - \frac{1}{2} k (x_3 - x_2)^2 - \frac{1}{2} k x_3^2
-$$
+The equations solved are:
 
 $$
 \begin{align}
-L &= \frac{1}{2} m (\dot{x}_1^2 + \dot{x}_2^2 + \dot{x}_3^2) - \frac{1}{2} k x_1^2 - \frac{1}{2} k (x_2 - x_1)^2 - \frac{1}{2} k (x_3 - x_2)^2 - \frac{1}{2} k x_3^2 \\
+L &= \frac{1}{2} m (\dot{x}_1^2 + \dot{x}_2^2 + \dot{x}_3^2) - \frac{1}{2} k x_1^2 - \frac{1}{2} k (x_2 - x_1)^2 - \frac{1}{2} k (x_3 - x_2)^2 - \frac{1}{2} k x_3^2  (\text{lagrangian of the system}\\
 m \ddot{x}_1 &= -kx_1 + k(x_2 - x_1) \\
 m \ddot{x}_2 &= -k(x_2 - x_1) + k(x_3 - x_2) \\
 m \ddot{x}_3 &= -kx_3 - k(x_3 - x_2)
