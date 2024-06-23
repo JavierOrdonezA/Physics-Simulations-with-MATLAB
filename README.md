@@ -211,6 +211,14 @@ $$
 - **wilberforce_pendulum_ODE45.m**: Simulates the Wilberforce pendulum using ode45.
 - **wilberforce_pendulum_RK4.m**: Simulates the Wilberforce pendulum using Runge-Kutta 4th order method.
 
+$$
+\frac{d^2 x}{dt^2} + \frac{k_x}{m} x + \frac{\varepsilon}{2m} \theta = 0
+$$
+
+$$
+\frac{d^2 \theta}{dt^2} + \frac{k_\theta}{I} \theta + \frac{\varepsilon}{2I} x = 0
+$$
+
 ## Results
 
 The `results` directory contains images of the simulation outputs.
