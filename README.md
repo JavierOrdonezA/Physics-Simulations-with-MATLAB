@@ -145,8 +145,7 @@ $$
 \begin{align}
 & \text{Lagrangiano of the system}\\
 L &= \frac{1}{2} \left[ m_{1} (\dot{x_{1}}+\dot{y_{1}})^{2}+m_{2} (\dot{x_{2}}+\dot{y_{2}})^{2} \right] -m_{1}gy_{1}-m_{2}gy_{2} \\
-\ddot{\theta_{1}}=&-\frac{g(2m_{1}+m_{2})\sin{\theta_{1}}+m_{2}g\sin{(\theta_{1}-2\theta_{2})}}{l_{2}(2m_{1}+m_{2}-m_{2}\cos{(2\theta_{1}-2\theta_{1})}} -\frac{2\sin{(\theta_{1}-\theta_{2})}m_{2}(\ddot{\theta_{1}}^2l_{2}+ \ddot{\theta_{2}}^2l_{2} \cos{( \theta_{1}-\theta_{2})}}{l_{2}(2m_{1}+m_{2}-m_{2}\cos{(2\theta_{1}-2\theta_{1})}} \\
-\ddot{\theta_{2}}= \frac{2\sin{(\theta_{1}-\theta_{2}})(\dot{\theta_{1}}^2l_{1}(m_{1}+m_{2})+(m_{1}+m_{2})\cos{\theta_{1}}}{l_{2}(2m_{1}+m_{2}-m_{2}\cos{(2\theta_{1}-2\theta_{1})}} +\frac{2\sin{(\theta_{1}-\theta_{2}})(\dot{\theta_{2}}^2l_{2}m_{2}\cos{(\theta_{1}-\theta_{2})})}{l_{2}(2m_{1}+m_{2}-m_{2}\cos{(2\theta_{1}-2\theta_{1})}} 
+\ddot{\theta_{1}}=&-\frac{g(2m_{1}+m_{2})\sin{\theta_{1}}+m_{2}g\sin{(\theta_{1}-2\theta_{2})}}{l_{2}(2m_{1}+m_{2}-m_{2}\cos{(2\theta_{1}-2\theta_{1})}} -\frac{2\sin{(\theta_{1}-\theta_{2})}m_{2}(\dot{\theta_{1}}^2l_{2}+ \dot{\theta_{2}}^2l_{2} \cos{( \theta_{1}-\theta_{2})}}{l_{2}(2m_{1}+m_{2}-m_{2}\cos{(2\theta_{1}-2\theta_{1})}} 
 \end{align}
 $$
 
