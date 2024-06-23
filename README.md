@@ -221,6 +221,30 @@ $$
 \frac{d^2 \theta}{dt^2} + \frac{k_\theta}{I} \theta + \frac{\varepsilon}{2I} x = 0
 $$
 
+
+### 7. Burgers Equation and   System of equations represent a coupled diffusion-reaction system with convection
+
+-  To Solve these 
+
+Equation taken from Scientific Reports | (2020) 10:8040 | https://doi.org/10.1038/s41598-020-63982-w
+
+The equations solved are:
+
+$$
+\frac{\partial C}{\partial t} = D \frac{\partial^2 C}{\partial x^2} - V \frac{\partial C}{\partial x} - K C
+$$
+
+The system of equations represents a coupled diffusion-reaction system with convection:
+
+$$
+i \frac{\partial \rho}{\partial t} = D_1 \frac{\partial^2 \rho}{\partial x^2} + b \frac{\partial \rho}{\partial x} + a \rho (1 - \theta)
+$$
+
+$$
+i \frac{\partial \theta}{\partial t} = D_2 \frac{\partial^2 \theta}{\partial x^2} + b \frac{\partial \theta}{\partial x} + c \theta (1 - \rho)
+$$
+
+
 ## Results
 
 The `results` directory contains images of the simulation outputs.
