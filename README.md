@@ -115,6 +115,8 @@ $$
 
 ### 7. Wilberforce Pendulum
 
+![](https://github.com/JavierOrdonezA/Physics-Simulations-with-MATLAB/blob/main/Numerical%20Results/image_Wilberforce_pendulum_oscillation_modes.png)
+
 - **wilberforce_pendulum_ODE45.m**: Simulates the Wilberforce pendulum using ode45.
 - **wilberforce_pendulum_RK4.m**: Simulates the Wilberforce pendulum using Runge-Kutta 4th order method.
   
