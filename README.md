@@ -126,11 +126,11 @@ $$
 
   The equation solved is:
   
-  $$
+  
   \begin{align}
   \frac{\partial C}{\partial t} = D \frac{\partial^2 C}{\partial x^2} + r C (1 - C)
   \end{align}
-  $$
+  
 
 - **One-dimensional-diffusion-equation.m**: Simulates the one-dimensional diffusion equation.
 - **Discretization_Burgers_equation.m**
