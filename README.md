@@ -137,10 +137,11 @@ This project aims to explore and simulate various physical phenomena using numer
 - **One-dimensional-diffusion-equation-logistic-term.m**: Simulates the one-dimensional diffusion equation with logistic term.
 
   The equation solved is:
-  
-  $$
+
+ $$
   \frac{\partial C}{\partial t} = D \frac{\partial^2 C}{\partial x^2} + r C (1 - C)
   $$
+
 
 - **One-dimensional-diffusion-equation.m**: Simulates the one-dimensional diffusion equation.
 - **Discretization_Burgers_equation.m**
