@@ -60,6 +60,8 @@ $$
 
 ### 3. Mass-Spring System
 
+![](https://github.com/JavierOrdonezA/Physics-Simulations-with-MATLAB/blob/main/Numerical%20Results/image_spring_system.png)
+
 - **Mass-spring system _forward_euler_method.m**: Simulates the mass-spring system using the Forward Euler method.
 - **Mass-spring system _modified_euler_method.m**: Simulates the mass-spring system using the Modified Euler method.
 - **Mass-spring system_Verlet.m**: Simulates the mass-spring system using the Verlet method.
