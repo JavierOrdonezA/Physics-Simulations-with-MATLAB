@@ -15,6 +15,11 @@ This project aims to explore and simulate various physical phenomena using numer
  
 $i \hbar \frac{\partial \psi}{\partial t} = \left( -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + k x^4 \right) \psi $
 
+
+$\frac{\partial C}{\partial t} = D \frac{\partial^2 C}{\partial x^2} + r C \left(1 - \frac{C}{K}\right)$
+
+
+
 ## Scripts
 
 ### 1. Projectile Motion
