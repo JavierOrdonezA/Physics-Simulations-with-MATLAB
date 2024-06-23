@@ -107,7 +107,7 @@ The equations solved are:
 
 $$
 \begin{align}
-L &= \frac{1}{2} m (\dot{x}_1^2 + \dot{x}_2^2 + \dot{x}_3^2) - \frac{1}{2} k x_1^2 - \frac{1}{2} k (x_2 - x_1)^2 - \frac{1}{2} k (x_3 - x_2)^2 - \frac{1}{2} k x_3^2  (\text{lagrangian of the system}\\
+L &= \frac{1}{2} m (\dot{x}_1^2 + \dot{x}_2^2 + \dot{x}_3^2) - \frac{1}{2} k x_1^2 - \frac{1}{2} k (x_2 - x_1)^2 - \frac{1}{2} k (x_3 - x_2)^2 - \frac{1}{2} k x_3^2  \hspace{0.3cm}(\text{lagrangian of the system})\\
 m \ddot{x}_1 &= -kx_1 + k(x_2 - x_1) \\
 m \ddot{x}_2 &= -k(x_2 - x_1) + k(x_3 - x_2) \\
 m \ddot{x}_3 &= -kx_3 - k(x_3 - x_2)
