@@ -36,6 +36,7 @@ This project aims to explore and simulate various physical phenomena using numer
 - **Mass-spring system _modified_euler_method.m**: Simulates the mass-spring system using the Modified Euler method.
 - **Mass-spring system_Verlet.m**: Simulates the mass-spring system using the Verlet method.
 
+
 ### 4. Non-Linear Pendulum
 
 - **Non-Linear-Pendulum.m**: Simulates the dynamics of a non-linear pendulum.
@@ -127,6 +128,19 @@ This project aims to explore and simulate various physical phenomena using numer
 - **Mass-spring system _forward_euler_method.m**: Simulates the mass-spring system using the Forward Euler method.
 - **Mass-spring system _modified_euler_method.m**: Simulates the mass-spring system using the Modified Euler method.
 - **Mass-spring system_Verlet.m**: Simulates the mass-spring system using the Verlet method.
+
+The equations solved is:
+
+
+$$
+\begin{align}
+& L = \frac{1}{2} m (\dot{x}_1^2 + \dot{x}_2^2 + \dot{x}_3^2) - \frac{1}{2} k x_1^2 - \frac{1}{2} k (x_2 - x_1)^2 - \frac{1}{2} k (x_3 - x_2)^2 - \frac{1}{2} k x_3^2 \\
+m \ddot{x}_1 &= -kx_1 + k(x_2 - x_1) \\
+m \ddot{x}_2 &= -k(x_2 - x_1) + k(x_3 - x_2) \\
+m \ddot{x}_3 &= -kx_3 - k(x_3 - x_2)
+\end{align}
+$$
+
 
 ### 4. Non-Linear Pendulum
 
