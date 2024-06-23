@@ -222,7 +222,7 @@ $$
 $$
 
 
-### 7. Burgers Equation and   System of equations represent a coupled diffusion-reaction system with convection
+### 7. Burgers Equation and   System of Coupled diffusion-reaction equations
 
 -  To Solve these 
 
