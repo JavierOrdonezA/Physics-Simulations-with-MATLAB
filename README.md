@@ -11,7 +11,7 @@ This project aims to explore and simulate various physical phenomena using numer
 - **Diffusion Equations** with logistic terms and convective effects.
 - **Time-Dependent Schrödinger Equation** for quantum mechanics simulations.
 - **Wilberforce Pendulum**
-- **Burgers Equation**
+- **Burgers Equation and  System of Coupled diffusion-reaction equations.**
  
 
 ## Scripts
