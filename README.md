@@ -95,6 +95,9 @@ Feel free to explore the projects and their solutions in the respective director
   \end{align}
  $$
 
+$$
+L= \frac{1}{2} \left[ m_{1} (\dot{x_{1}}+\dot{y_{1}})^{2}+m_{2} (\dot{x_{2}}+\dot{y_{2}})^{2} \right] -m_{1}gy_{1}-m_{2}gy_{2}
+$$
 
 
 # Physics-Simulations-with-MATLAB
@@ -137,6 +140,10 @@ $$
 - **double_pendulum_ode45.m**: Double pendulum simulation using MATLAB's ode45 solver.
 - **double_pendulum_rk4.m**: Double pendulum simulation using the Runge-Kutta 4th order method.
 - **double_pendulum_verlet.m**: Double pendulum simulation using the Verlet integration method.
+
+$$
+L= \frac{1}{2} \left[ m_{1} (\dot{x_{1}}+\dot{y_{1}})^{2}+m_{2} (\dot{x_{2}}+\dot{y_{2}})^{2} \right] -m_{1}gy_{1}-m_{2}gy_{2}
+$$
 
 ### 3. Mass-Spring System
 
