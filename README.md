@@ -142,7 +142,9 @@ $$
 - **double_pendulum_verlet.m**: Double pendulum simulation using the Verlet integration method.
 
 $$
+\begin{align}
 L= \frac{1}{2} \left[ m_{1} (\dot{x_{1}}+\dot{y_{1}})^{2}+m_{2} (\dot{x_{2}}+\dot{y_{2}})^{2} \right] -m_{1}gy_{1}-m_{2}gy_{2}
+\end{align}
 $$
 
 ### 3. Mass-Spring System
