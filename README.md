@@ -116,6 +116,14 @@ This project aims to explore and simulate various physical phenomena using numer
 - **projectile_quadratic_resistance_EulerM.m**: Projectile motion with quadratic resistance using the Modified Euler method.
 - **projectile_quadratic_resistance_Verlet.m**: Projectile motion with quadratic resistance using the Verlet method.
 
+  The equations solved are:
+    $$
+  \begin{cases}
+  m \frac{d^2 x}{dt^2} = -b v_x \sqrt{v_x^2 + v_y^2} \\
+  m \frac{d^2 y}{dt^2} = -mg - b v_y \sqrt{v_x^2 + v_y^2}
+  \end{cases}
+  $$
+
 ### 2. Double Pendulum
 
 - **double_pendulum_Euler.m**: Double pendulum simulation using Euler's method.
@@ -129,7 +137,7 @@ This project aims to explore and simulate various physical phenomena using numer
 - **Mass-spring system _modified_euler_method.m**: Simulates the mass-spring system using the Modified Euler method.
 - **Mass-spring system_Verlet.m**: Simulates the mass-spring system using the Verlet method.
 
-The equations solved is:
+The equations solved are:
 
 
 $$
