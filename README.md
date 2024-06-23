@@ -145,6 +145,14 @@ $$
   \end{align}
   $$
 
+  $$
+\begin{align}
+  i \hbar \frac{\partial \psi}{\partial t} = \left( -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + k x^4 \right) \psi
+\end{align}
+$$
+
+
+
 ### 7. Wilberforce Pendulum
 
 - **wilberforce_pendulum_ODE45.m**: Simulates the Wilberforce pendulum using ode45.
