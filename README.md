@@ -181,6 +181,10 @@ $$
 
 - **Non-Linear-Pendulum.m**: Simulates the dynamics of a non-linear pendulum.
 
+$$
+\frac{d^2 \theta}{d t^2} = -\frac{g}{l} \sin \theta
+$$
+
 ### 5. Diffusion and Burgers_equation Equations
 
 - **One-dimensional-diffusion-equation-logistic-term.m**: Simulates the one-dimensional diffusion equation with logistic term.
