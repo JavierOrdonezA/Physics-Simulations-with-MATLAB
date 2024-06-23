@@ -75,6 +75,18 @@ Feel free to explore the projects and their solutions in the respective director
 **F. J. Ordonez Araujo (fordonezaraujo@gmail.com)**
 
 
+---
+
+  $$
+  \frac{\partial C}{\partial t} = D \frac{\partial^2 C}{\partial x^2} + r C (1 - C)
+  $$
+
+
+    
+  $$
+  i \hbar \frac{\partial \psi}{\partial t} = \left( -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + k x^4 \right) \psi
+  $$
+
 
 
 
