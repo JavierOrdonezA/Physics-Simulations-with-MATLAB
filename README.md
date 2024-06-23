@@ -54,6 +54,9 @@ $$
   \theta_{2}})(\dot{\theta_{2}}^2l_{2}m_{2}\cos{(\theta_{1}-\theta_{2})})}{l_{2}(2m_{1}+m_{2}-m_{2}\cos{(2\theta_{1}-2\theta_{1})}} 
  $$
 
+
+![..](https://github.com/JavierOrdonezA/Physics-Simulations-with-MATLAB/blob/main/Numerical%20Results/image_double%20pendulum.png)
+
 ### 3. Mass-Spring System
 
 - **Mass-spring system _forward_euler_method.m**: Simulates the mass-spring system using the Forward Euler method.
