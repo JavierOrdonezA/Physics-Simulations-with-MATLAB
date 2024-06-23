@@ -88,7 +88,12 @@ Feel free to explore the projects and their solutions in the respective director
   i \hbar \frac{\partial \psi}{\partial t} = \left( -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + k x^4 \right) \psi
   $$
 
-
+  $$  
+  \begin{cases}
+    m \frac{d^2 x}{dt^2} = -b v_x \sqrt{v_x^2 + v_y^2} \\
+    m \frac{d^2 y}{dt^2} = -mg - b v_y \sqrt{v_x^2 + v_y^2}
+  \end{cases}
+ $$
 
 
 
@@ -118,13 +123,13 @@ This project aims to explore and simulate various physical phenomena using numer
 
   The equations solved are:
   
-  $$  
-    \begin{cases}
-      m \frac{d^2 x}{dt^2} = -b v_x \sqrt{v_x^2 + v_y^2} \\
-      m \frac{d^2 y}{dt^2} = -mg - b v_y \sqrt{v_x^2 + v_y^2}
-    \end{cases}
-  $$
 
+  $$  
+  \begin{cases}
+    m \frac{d^2 x}{dt^2} = -b v_x \sqrt{v_x^2 + v_y^2} \\
+    m \frac{d^2 y}{dt^2} = -mg - b v_y \sqrt{v_x^2 + v_y^2}
+  \end{cases}
+ $$
 
 
 ### 2. Double Pendulum
