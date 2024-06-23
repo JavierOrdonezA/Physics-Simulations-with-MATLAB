@@ -123,7 +123,7 @@ This project aims to explore and simulate various physical phenomena using numer
       m \frac{d^2 x}{dt^2} = -b v_x \sqrt{v_x^2 + v_y^2} \\
       m \frac{d^2 y}{dt^2} = -mg - b v_y \sqrt{v_x^2 + v_y^2}
     \end{cases}
-   $$
+  $$
 
 
 
