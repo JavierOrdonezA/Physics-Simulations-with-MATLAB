@@ -115,7 +115,7 @@ $$
 
 ### 7. Wilberforce Pendulum
 
-![](https://www.researchgate.net/publication/330787674/figure/fig1/AS:721542619086848@1549040574014/A-sketch-of-our-prototype-of-the-Wilberforce-pendulum-at-its-equilibrium-state-a-and-in.ppm)
+
 
 - **wilberforce_pendulum_ODE45.m**: Simulates the Wilberforce pendulum using ode45.
 - **wilberforce_pendulum_RK4.m**: Simulates the Wilberforce pendulum using Runge-Kutta 4th order method.
