@@ -30,6 +30,7 @@ m \ddot{x}_3 &= -kx_3 - k(x_3 - x_2)
 
 
 
+
 ## Scripts
 
 ### 1. Projectile Motion
