@@ -85,7 +85,8 @@ Feel free to explore the projects and their solutions in the respective director
 
     
   $$
-  i \hbar \frac{\partial \psi}{\partial t} = \left( -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + \frac{1}{2} m \omega^2 x^2 + k x^4 \right) \psi
+   \ddot{\theta_{2}}= \frac{2\sin{(\theta_{1}-\theta_{2}})(\dot{\theta_{1}}^2l_{1}(m_{1}+m_{2})+(m_{1}+m_{2})\cos{\theta_{1}}}{l_{2}(2m_{1}+m_{2}-m_{2}\cos{(2\theta_{1}-2\theta_{1})}} +\frac{2\sin{(\theta_{1}- 
+   \theta_{2}})(\dot{\theta_{2}}^2l_{2}m_{2}\cos{(\theta_{1}-\theta_{2})})}{l_{2}(2m_{1}+m_{2}-m_{2}\cos{(2\theta_{1}-2\theta_{1})}} 
   $$
 
   $$  
