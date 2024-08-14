@@ -8,8 +8,8 @@ This project aims to explore and simulate various physical phenomena using numer
 - **Double Pendulum Dynamics** using Euler, Runge-Kutta, and Verlet integration methods.
 - **Mass-Spring System** simulations with different numerical integration techniques.
 - **Non-linear Pendulum** and its behavior under various conditions.
-- **Diffusion Equations** with logistic terms and convective effects.
-- **Time-Dependent Schrödinger Equation** for quantum mechanics simulations.
+- **Diffusion Equations** with logistic terms and convective effects. Finite difference method
+- **Time-Dependent Schrödinger Equation** for quantum mechanics simulations. Finite difference method
 - **Wilberforce Pendulum**
 - **Burgers Equation and System of Coupled diffusion-reaction equations** Finite difference method
 
